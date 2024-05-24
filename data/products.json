@@ -1,7 +1,7 @@
 {
     "products":[
-        { "id": "p1", "title": "book1" },
-        {"id":"p2", "title":"book2"},
-        { "id": "p3", "title": "book3" }
+        { "id": "p1", "title": "book1", "price":"123000" },
+        {"id":"p2", "title":"book2", "price":"523000"},
+        { "id": "p3", "title": "book3" ,"price":"78000"}
     ]
 }
